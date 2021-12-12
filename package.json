@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/telegraf/telegraf-session-redis#readme",
   "engines": {
-    "node": ">=6.2.1"
+    "node": ">=16.13.1"
   },
   "files": [
     "lib/session.js",
